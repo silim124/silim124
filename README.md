@@ -1,3 +1,6 @@
+<div align="center"> 
+     
+     
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Sieun!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 <br><br><br>
 <p align="center">🌱 I am a student developer studying in <img 
@@ -27,4 +30,8 @@
   <img 
      src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"
      style="height : auto; margin-left : 15px; margin-right : 15px;"/>
-</p>
+</p><br><br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silim124&layout=compact&theme=tokyonight&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+</div>
