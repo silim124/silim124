@@ -3,7 +3,8 @@
 <p align="center">🌱 I am a student developer studying in <img 
      src="https://img.shields.io/badge/seoul-000000?style=flat&logo=42&logoColor=white"
      style="height : auto; margin-left : 15px; margin-right : 15px;"/></p>
-     <p align="center">Here you can find the projects I've done at 42. <br><br>
+     <p align="center">Here you can find the projects I've done at 42. <br>
+     <p align="center">If you have any questions 💬, send me an email here: siniim0124@gmail.com<br><br>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
