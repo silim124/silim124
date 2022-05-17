@@ -32,6 +32,4 @@
      style="height : auto; margin-left : 15px; margin-right : 15px;"/>
 </p><br><br>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silim124&layout=compact&theme=tokyonight&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 </div>
