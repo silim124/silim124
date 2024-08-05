@@ -1,6 +1,6 @@
 ## *Using tech to decentralize everything. Because the future needs fixing.*
 
-Hello! I'm Sieun, the founder of **Moonlyt** (Web3) and **Glot** (Web2). My primary focus is on developing applications using Flutter, Solidity, and Solana. I have a strong passion for blockchain technology and decentralized applications.
+Hello! I'm Sieun, the founder of **Moonlyt** (Web3) and **Glot** (Web2) and a passionate developer with a knack for DeFi derivatives, MEV, and consumer DApps. My playgrounds are Solidity and Solana, but I also dabble in Go server development. When I'm not coding, you can find me winning hackathons or co-founding Web3 startups.
 
 ---
 <br/>
