@@ -20,7 +20,7 @@ Hello! I'm Sieun, the founder of **Moonlyt** (Web3) and **Glot** (Web2) and a pa
 I'm always up for a chat about Web3, hackathons, or the latest tech memes. Find me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sieunlim/)
-[![Twitter](https://img.shields.io/badge/Twitter-@moonlyt_net-blue?style=for-the-badge&logo=twitter)](https://twitter.com/moonlyt_net)
+[![Twitter](https://img.shields.io/badge/Twitter-@moonlyt_net-blue?style=for-the-badge&logo=twitter)](https://twitter.com/articulax)
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail)](mailto:siniim0124@gmail.com)
 
 ---
