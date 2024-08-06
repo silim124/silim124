@@ -7,8 +7,8 @@ Hello! I'm Sieun, the founder of **Moonlyt** (Web3) and **Glot** (Web2) and a pa
 
 ### 🌟 Highlights
 
-- 🌐 **Web3 Entrepreneur** | Founder of **Moonlyt**
-- 💼 **Web2 Entrepreneur** | Founder of **Glot**
+- 🌐 **Web3 Entrepreneur** | Co-Founder of **Moonlyt**
+- 💼 **Web2 Entrepreneur** | Co-Founder of **Glot**
 - 🏆 **5-time Hackathon Winner**
 - 💼 **Contract & Server Developer**
 
