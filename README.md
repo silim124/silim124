@@ -5,36 +5,6 @@ Hello! I'm Sieun, the co-founder of **Moonlyt** (Web3) and **Glot** (Web2) and a
 ---
 <br/>
 
-### 🌟 Highlights
-
-- 🌐 **Web3 Entrepreneur** | Co-Founder of **Moonlyt**
-- 💼 **Web2 Entrepreneur** | Co-Founder of **Glot**
-- 🏆 **5-time Hackathon Winner**
-- 💼 **Contract & Server Developer**
-
----
-<br/>
-
-## 💬 Let's Connect!
-
-I'm always up for a chat about Web3, hackathons, or the latest tech memes. Find me here:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sieunlim/)
-[![Twitter](https://img.shields.io/badge/Twitter-@articulax-blue?style=for-the-badge&logo=twitter)](https://twitter.com/articulax)
-[![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail)](mailto:siniim0124@gmail.com)
-
----
-<br/>
-
-## Current Focus
-
-- **Smart Contracts:** Developing secure and efficient smart contracts using Solidity.
-- **Mobile Applications:** Building cross-platform mobile applications with Flutter.
-- **Blockchain Integration:** Integrating Solana and other blockchain technologies into mobile and web applications.
-
----
-<br/>
-
 ## 🏆 Achievements
 
 I've participated in numerous hackathons and have had the honor of winning several awards:
